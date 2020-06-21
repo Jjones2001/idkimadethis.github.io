@@ -295,7 +295,7 @@ body{
   font-size: 200%;
   background-color: white;
   color: green;
-  border: 3px solid green;
+  border: 0px solid green;
   border-radius: 5px;
   padding: 14px 25px;
   text-decoration: none;
@@ -310,7 +310,7 @@ body{
 }
 #button2:hover {
   color: white;
-  border:none;
+  border: none;
   border-radius: 5px;
   background-color: green;
   text-decoration: none;
