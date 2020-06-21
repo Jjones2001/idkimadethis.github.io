@@ -325,7 +325,7 @@ body{
 #first_section{
   -webkit-box-flex: 1;
   margin: 20px 400px;
-  padding: 20px;
+  padding: 10px;
   text-align :left;
   text-decoration: none;
   font-size: 200%;
