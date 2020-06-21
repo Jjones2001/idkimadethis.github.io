@@ -359,8 +359,8 @@ hgroup{
 #second_section{
   background-color: white;
   -webkit-box-flex: 1;
-  /*margin: 20px;*/
-  padding: 20px;
+  margin: 20px;
+  /*padding: 20px;*/
   text-align :center;
   font-style: arial;
 }
