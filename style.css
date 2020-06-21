@@ -323,7 +323,7 @@ body{
   transform: translateY(4px);
 }
 #first_section{
-  /*-webkit-box-flex: 1;*/
+  -webkit-box-flex: 1;
   margin: 20px 400px;
   padding: 20px;
   text-align :left;
