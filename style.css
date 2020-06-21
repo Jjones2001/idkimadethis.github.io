@@ -357,7 +357,7 @@ hgroup{
   color: white;
 }
 #second_section{
-  background-color: white;
+  background-color: none;
   border: 1px solid blue;
   -webkit-box-flex: 1;
   margin: 20px;
