@@ -17,6 +17,11 @@ body{
   -webkit-box-pack: center;
   /*text-align:center;*/
 }
+a:-webkit-any-link {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
 #main_page1{
   max-width:100%;
   margin:0px 0px;
