@@ -104,11 +104,7 @@ body{
   text-decoration: none;
   display: inline-block;
 }
-#buttonTM:visited{
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
+
 #buttonTM:hover{
   color: yellow;
   border-radius: 5px;
@@ -117,11 +113,7 @@ body{
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
-#button:active{
-  color: red;
-  background-color: black;
-  text-decoration: none;
-}
+
 
 #top_header2{
   background-image: inherit;
