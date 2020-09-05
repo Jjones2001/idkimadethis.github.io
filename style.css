@@ -94,7 +94,7 @@ body{
   padding: 5px;
   font: bold 14px comic sans;
 }
-#home:link{
+#buttonTM:link{
   font-size: 200%;
   background-color: yellow;
   border-radius: 5px;
@@ -104,12 +104,12 @@ body{
   text-decoration: none;
   display: inline-block;
 }
-#home:visited{
+#buttonTM:visited{
   color: black;
   background-color: transparent;
   text-decoration: none;
 }
-#home:hover{
+#buttonTM:hover{
   color: yellow;
   border-radius: 5px;
   background-color: black;
@@ -117,95 +117,12 @@ body{
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
-#home:active{
+#button:active{
   color: red;
   background-color: black;
   text-decoration: none;
 }
-#Background:link {
-  font-size: 200%;
-  background-color: yellow;
-  border-radius: 5px;
-  color: black;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-#background:visited{
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-#background:hover{
-  color: yellow;
-  border-radius: 5px;
-  background-color: black;
-  text-decoration: none;
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
-}
-#background:active{
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
-}
-#projectsandskills:link{
-  font-size: 200%;
-  border-radius: 5px;
-  background-color: yellow;
-  color: black;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-#projectsandskills:visited{
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-#projectsandskills:hover{
-  color: yellow;
-  border-radius: 5px;
-  background-color: black;
-  text-decoration: none;
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
-}
-#projectsandskills:active{
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
-}
-#ContactMe:link {
-  font-size: 200%;
-  border-radius: 5px;
-  background-color: yellow;
-  color: black;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-#ContactMe:visited{
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-#ContactMe:hover{
-  color: yellow;
-  border-radius: 5px;
-  background-color: black;
-  text-decoration: none;
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
-}
-#ContactMe:active{
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
-}
+
 #top_header2{
   background-image: inherit;
   background-size: inherit;
